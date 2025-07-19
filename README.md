@@ -1,4 +1,4 @@
-# Lea Buonomo
+# Léa Buonomo
 
 ## À propos de moi
 
