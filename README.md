@@ -4,7 +4,7 @@
 
 Développeuse passionnée par la tech et en constante évolution, j’ai d’abord consolidé mes compétences en Front-End avant d’élargir mes ambitions vers le Full-Stack. Curieuse et polyvalente, je m’intéresse à des domaines variés tels que la cybersécurité, le développement de jeux vidéo et la programmation robotique.  
 
-Mes centres d’intérêt — MAO, DAO, PAO, 3D, justice et écologie numérique — m’ont conduite à concevoir des expériences utilisateur accessibles, inclusives et innovantes.
+Mes centres d’intérêt (MAO, DAO, PAO, 3D, justice et écologie numérique) m’ont conduite à concevoir des expériences utilisateur accessibles, inclusives et innovantes.
 
 Je recherche une entreprise qui valorise la curiosité, l’apprentissage continu et l’impact social. Mon objectif : devenir une développeuse complète et un véritable atout pour l’équipe.
 
