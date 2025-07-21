@@ -42,7 +42,7 @@ J’ai une soif d’apprentissage, je m’investis à fond et j'adore relever de
 
 ## Contact
 
-- Portfolio : https://buonomolea.github.io/BUONOMO_Lea_Portfolio_2025_FR/  
+- Portfolio : https://buonomolea.github.io/portfolio-lea-buonomo/
 - LinkedIn :  https://www.linkedin.com/in/l%C3%A9a-b-179849208/
 - Email : leabuonomo@hotmail.fr
 
