@@ -26,10 +26,10 @@ J’ai une soif d’apprentissage, je m’investis à fond et j'adore relever de
 
 ## Projets phares
 
-- **BUONOMO_Lea_Portfolio_2025_FR** 
+- **Portfolio Léa Buonomo** 
 
   Portfolio personnel développé en HTML, CSS et JavaScript.
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2E0EF1)](https://buonomolea.github.io/BUONOMO_Lea_Portfolio_2025_FR/)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2E0EF1)](https://buonomolea.github.io/portfolio-lea-buonomo/)
   Déployé sur GitHub Pages : clique sur le badge “Live Demo” ci-dessus pour voir la version en ligne.
   En cours d'amélioration : Le responsive design pour les ecran de tablettes
 
