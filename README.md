@@ -6,7 +6,7 @@ Développeuse passionnée par la tech et en constante évolution, j’ai d’abo
 
 Mes centres d’intérêt (MAO, DAO, PAO, 3D, justice et écologie numérique) m’ont conduite à concevoir des expériences utilisateur accessibles, inclusives et innovantes.
 
-Je recherche une entreprise qui valorise la curiosité, l’apprentissage continu et l’impact social. Mon objectif : devenir une développeuse complète et un véritable atout pour l’équipe.
+Je recherche une entreprise qui valorise la curiosité, l’apprentissage continu et l’accessibilité. Mon objectif : devenir une développeuse complète et un véritable atout.
 
 Disponible pour des stages volontaires, des projets collaboratifs ou open source.
 J’ai une soif d’apprentissage, je m’investis à fond et j'adore relever de nouveaux défis !
