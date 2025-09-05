@@ -20,7 +20,7 @@ J’ai une soif d’apprentissage, je m’investis à fond et j'adore relever de
 - Bootstrap  
 - Intégration responsive et accessibilité (WCAG, Lighthouse)  
 - Outils et workflows : Git / GitHub, npm, VS Code  
-- Notions de back-end : Node.js, Express, MongoDB  
+- Notions de back-end : Node.js, Express, Postman  
 
 ---
 
