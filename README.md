@@ -11,6 +11,8 @@ Je recherche une entreprise qui valorise la curiosité, l’apprentissage contin
 Disponible pour des stages volontaires, des projets collaboratifs ou open source.
 J’ai une soif d’apprentissage, je m’investis à fond et j'adore relever de nouveaux défis !
 
+En parallèle de mon apprentissage continu je développe un logiciel de wireframing qui, à terme, devra fonctionner hors ligne après téléchargement/installation en local afin de compléter ma suite de projets "Outils".
+
 ---
 
 ## Compétences clés
