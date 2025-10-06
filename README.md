@@ -19,10 +19,11 @@ En parallèle de mon apprentissage continu je développe un logiciel de wirefram
 
 - HTML5, CSS3 (Flexbox, Grid, responsive design)  
 - JavaScript (ES6+, DOM, fetch API)  
-- Bootstrap  
+- Bootstrap, compréhension de l'utilisation des Frameworks et bibliothèques
 - Intégration responsive et accessibilité (WCAG, Lighthouse)  
 - Outils et workflows : Git / GitHub, npm, VS Code  
-- Notions de back-end : Node.js, Express, Postman  
+- Notions de back-end : Node.js, Express, SQLite, Postman, Tokens
+- Apprentissage actuel : MongoDB et PostgreSQL
 
 ---
 
