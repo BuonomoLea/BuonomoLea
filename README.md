@@ -54,3 +54,4 @@ En parallèle de mon apprentissage continu je développe un logiciel de wirefram
 - Un stage ou emploi en développement web (front-end ou full-stack)  
 - Une équipe ouverte à la collaboration et à l’apprentissage mutuel  
 - Des projets où je peux apporter ma créativité et mes compétences
+- Et bien sûr des défis !
