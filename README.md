@@ -32,7 +32,9 @@ En parallèle de mon apprentissage continu je développe un logiciel de wirefram
 - **Portfolio Léa Buonomo** 
 
   Portfolio personnel développé en HTML, CSS et JavaScript.
+  
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2E0EF1)](https://buonomolea.github.io/portfolio-lea-buonomo/)
+  
   Déployé sur GitHub Pages : clique sur le badge “Live Demo” ci-dessus pour voir la version en ligne.
   En cours d'amélioration : Le responsive design pour les ecran de tablettes
 
@@ -56,7 +58,7 @@ En parallèle de mon apprentissage continu je développe un logiciel de wirefram
 
 ## Ce que je recherche
 
-- Un stage ou emploi en développement web (front-end ou full-stack)  
-- Une équipe ouverte à la collaboration et à l’apprentissage mutuel  
+- Un stage ou emploi en développement web front-end ou full-stack 
+- Une équipe ou des développeurs souhaitant collaborer 
 - Des projets où je peux apporter ma créativité et mes compétences
 - Et bien sûr des défis !
