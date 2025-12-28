@@ -23,7 +23,7 @@ En parallèle de mon apprentissage continu je développe un logiciel de wirefram
 - Intégration responsive et accessibilité (WCAG, Lighthouse)  
 - Outils et workflows : Git / GitHub, npm, VS Code  
 - Notions de back-end : Node.js, Express, SQLite, Postman, Tokens
-- Apprentissage actuel : MongoDB et PostgreSQL
+- Apprentissage actuel : MongoDB et PostgreSQL, MLL
 
 ---
 
