@@ -4,24 +4,16 @@
 
 Hello,
 
-Je suis une développeuse web en constante évolution dans l’écosystème JavaScript.
-Après avoir consolidé mes compétences en Front-End, mes ambitions se sont élargies vers le Full-Stack. 
+Développeuse front-end spécialisée en JavaScript, créatrice d’outils web et passionnée par l’UX, l’accessibilité et les interfaces interactives.
 
-Très curieuse de nature, je m’intéresse à des domaines variés tels que la cybersécurité, le développement de jeux vidéo et la programmation robotique.  
-Mes autres centres d’intérêt tels que la musique assisté par ordinateur (MAO) ou le dessin assisté par ordinateur (DAO), m’inspirent pour concevoir des expériences créatives et originales.
+Très curieuse de nature, je m’intéresse à des domaines variés tels que le développement de jeux vidéo et la programmation robotique, la musique assisté par ordinateur (MAO) ou le dessin assisté par ordinateur (DAO).
+Ces domaines m’inspirent pour concevoir des expériences créatives et originales.
 
 Actuellement, je recherche une expérience professionnelle et suis très ouverte quant à sa nature :
 Un stage, une immersion (PMSMP), une alternance, une collaboration non rémunérée ou même un CDI !
 
-Mon objectif est de devenir une développeuse complète et un véritable atout pour ceux qui m’auront accordé leur confiance.
-
-
+En parallèle de mon apprentissage continu, que je pousse aujourd'hui vers un profil full-stack, je développe des projets pour mes proches et moi-même.
 J’ai une soif d’apprentissage, je m’investis à fond, et relever de nouveaux défis est l'une de mes motivations principales !
-
-En parallèle de mon apprentissage continu, je développe des projets pour mes proches et moi-même tels qu'un player audio ou encore pousser les limites d'une IA MLL en vanilla JS.
-Explorer autant de domaine, me permet de confirmer mes compétences et ma compréhension en profondeur.
-
-Mes 4 années d’expérience dans un ERP sportif m’ont permis de développer des soft skills solides, gestion du stress, communication, organisation, que je mets aujourd’hui au service de ma reconversion dans le développement web.
 
 ---
 
