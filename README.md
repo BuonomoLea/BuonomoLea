@@ -8,20 +8,18 @@ Je suis une développeuse web en constante évolution dans l’écosystème Java
 Après avoir consolidé mes compétences en Front-End, mes ambitions se sont élargies vers le Full-Stack. 
 
 Très curieuse de nature, je m’intéresse à des domaines variés tels que la cybersécurité, le développement de jeux vidéo et la programmation robotique.  
-Mes autres centres d’intérêt tels que la MAO, la DAO ou encore l'écologie numérique, m’inspirent pour concevoir des expériences utilisateur accessibles, inclusives et originales.
+Mes autres centres d’intérêt tels que la musique assisté par ordinateur (MAO) ou le dessin assisté par ordinateur (DAO), m’inspirent pour concevoir des expériences créatives et originales.
 
 Actuellement, je recherche une expérience professionnelle et suis très ouverte quant à sa nature :
 Un stage, une immersion (PMSMP), une alternance, une collaboration non rémunérée ou même un CDI !
 
-Là où je me projette :
-Au sein d'une entreprise qui valorise la curiosité, l’apprentissage et l’accessibilité.
-Avec pour objectif de devenir une développeuse complète et un véritable atout pour ceux qui m’auront accordé leur confiance.
+Mon objectif est de devenir une développeuse complète et un véritable atout pour ceux qui m’auront accordé leur confiance.
 
 
 J’ai une soif d’apprentissage, je m’investis à fond, et relever de nouveaux défis est l'une de mes motivations principales !
 
-En parallèle de mon apprentissage continu, je développe des projets pour mes proches et moi-même tels qu'un player audio ou encore un projet personnel d’IA MLL en vanilla JS.
-Explorer autant de domaine, me permet de confirmer mes compétences acquises et pousser toujours plus ma compréhension en profondeur.
+En parallèle de mon apprentissage continu, je développe des projets pour mes proches et moi-même tels qu'un player audio ou encore pousser les limites d'une IA MLL en vanilla JS.
+Explorer autant de domaine, me permet de confirmer mes compétences et ma compréhension en profondeur.
 
 Mes 4 années d’expérience dans un ERP sportif m’ont permis de développer des soft skills solides, gestion du stress, communication, organisation, que je mets aujourd’hui au service de ma reconversion dans le développement web.
 
