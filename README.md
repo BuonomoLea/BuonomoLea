@@ -25,8 +25,6 @@
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/-BASH-7F6BFF.svg?style=for-the-badge&logo=sparkles-fill)
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/-SKETCHBOOK_PRO-4374f0.svg?style=for-the-badge&logo=sparkles-fill)
 
-![gif](https://s8.ezgif.com/tmp/ezgif-82887fc727d79717.gif)
-
 # **BEST PROJECTS** 
 
 [![Live Demo](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-black?style=for-the-badge&logo=devices&logoColor=white)](https://buonomolea.github.io/portfolio-lea-buonomo/)
